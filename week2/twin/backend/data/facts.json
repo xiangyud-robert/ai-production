@@ -1,0 +1,21 @@
+{
+  "full_name": "Xiangyu Dong",
+  "name": "Xiangyu",
+  "current_role": "learner",
+  "location": "Greater Seattle Area",
+  "email": "xiangyud_tech@outlook.com",
+  "linkedin": "linkedin.com/in/xiangyud",
+  "specialties": [
+    "Software Engineer",
+    "AI Engineer",
+    "Full stack Engineer"
+  ],
+  "years_experience": 9,
+  "education": [
+    {
+      "degree": "Master’s Degree",
+      "institution": "Northeastern University",
+      "year": "2016"
+    }
+  ]
+}
